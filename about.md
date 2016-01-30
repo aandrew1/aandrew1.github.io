@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Audra Andrew - PhD student UT Arlington
 
 ### More Information
 
