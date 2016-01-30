@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a PhD student at the University of Texas at Arlington studying organ regenerative growth in various snake species. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aandrew@uta.edu](mailto:aandrew@uta.edu)
